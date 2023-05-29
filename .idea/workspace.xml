@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64f7c045-b9c1-49d7-a778-bd1251135904" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverse-polish-notation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReversePolishNotationCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ReversePolishNotationCalculatorTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2QSifB7wNmDAMnEErp1n91CTvJj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.ReversePolishNotationCalculatorTest.shouldNotCalculateIfOperandsAreZero">
+    <configuration name="All in reverse-polish-notation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reverse-polish-notation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReversePolishNotationCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reverse-polish-notation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ReversePolishNotationCalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReversePolishNotationCalculatorTest.shouldGetString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reverse-polish-notation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ReversePolishNotationCalculatorTest" />
+      <option name="METHOD_NAME" value="shouldGetString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReversePolishNotationCalculatorTest.shouldGetStringAndThrowNullPointerException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reverse-polish-notation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ReversePolishNotationCalculatorTest" />
+      <option name="METHOD_NAME" value="shouldGetStringAndThrowNullPointerException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReversePolishNotationCalculatorTest.shouldNotCalculateIfOperandsAreZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reverse-polish-notation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ReversePolishNotationCalculatorTest" />
+      <option name="METHOD_NAME" value="shouldNotCalculateIfOperandsAreZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ReversePolishNotationCalculatorTest.shouldNotCalculateIfOperandsAreZero" />
+        <item itemvalue="JUnit.All in reverse-polish-notation" />
+        <item itemvalue="JUnit.ReversePolishNotationCalculatorTest.shouldGetStringAndThrowNullPointerException" />
+        <item itemvalue="JUnit.ReversePolishNotationCalculatorTest" />
+        <item itemvalue="JUnit.ReversePolishNotationCalculatorTest.shouldGetString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64f7c045-b9c1-49d7-a778-bd1251135904" name="Changes" comment="" />
+      <created>1685353486553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685353486553</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/reverse_polish_notation$ReversePolishNotationCalculatorTest_shouldGetString.ic" NAME="ReversePolishNotationCalculatorTest.shouldGetString Coverage Results" MODIFIED="1685354869625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/reverse_polish_notation$ReversePolishNotationCalculatorTest_shouldGetStringAndThrowNullPointerException.ic" NAME="ReversePolishNotationCalculatorTest.shouldGetStringAndThrowNullPointerException Coverage Results" MODIFIED="1685356749522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/reverse_polish_notation$All_in_reverse_polish_notation.ic" NAME="All in reverse-polish-notation Coverage Results" MODIFIED="1685357583762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/reverse_polish_notation$ReversePolishNotationCalculatorTest.ic" NAME="ReversePolishNotationCalculatorTest Coverage Results" MODIFIED="1685355734894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/reverse_polish_notation$ReversePolishNotationCalculatorTest_shouldNotCalculateIfOperandsAreZero.ic" NAME="ReversePolishNotationCalculatorTest.shouldNotCalculateIfOperandsAreZero Coverage Results" MODIFIED="1685358061218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
