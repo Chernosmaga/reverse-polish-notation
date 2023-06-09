@@ -1,4 +1,4 @@
-import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Assertions; // можно сделать статичный импорт import static org.junit.jupiter.api.Assertions.assertEquals  - тогда в тестах методы сверки можно сразу вызывать по assertEquals (мне кажатся так быстрее :))
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.function.Executable;
@@ -7,7 +7,7 @@ public class ReversePolishNotationCalculatorTest {
     private static final ReversePolishNotationCalculator calculator = new ReversePolishNotationCalculator();
 
     @Test // если передана пустая строка или строка с пробелами
-    public void shouldGetStringAndThrowNullPointerException() {
+    public void shouldGetStringAndThrowNullPointerException() { // я до таких тестов не додумался)
         NullPointerException exception = Assertions.assertThrows(
                 NullPointerException.class,
                 generateException(" ")
@@ -30,7 +30,8 @@ public class ReversePolishNotationCalculatorTest {
     public void shouldCalculateIfMinus() {
         int answer = calculator.calculatePolishNotation("2 3 -");
 
-        Assertions.assertEquals(-1, answer);
+        Assertions.assertEquals(-1, answer); // как вариант можно сделать как у меня - с объявлением переменных. Так быстрее менять переменные для проверки. 
+                                             // + можно добавить тестовое сообщение о том какое значение ожидалось и какое получено - как в тренажере
     }
 
     @Test // если сложение
